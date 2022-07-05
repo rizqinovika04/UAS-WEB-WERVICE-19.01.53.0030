@@ -3,4 +3,5 @@
 <ul style="list-style: none;">
   <li>Nama : Rizqi Novikasari</li>
   <li>NIM  : 19.01.53.0030</li>
+  <li>Kelompok : A1</li>
 </ul>
